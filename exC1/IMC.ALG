@@ -35,7 +35,7 @@ Inicio
    fimse
 
    se ((imc >=35) e (imc <=39.9)) entao
-      escreva("Voce esta com obgreau2(sujiro que comese a fazer exercicios) com o imc de: ",imc)
+      escreva("Voce esta com obgreau2 com o imc de: ",imc)
    fimse
 
    se (imc >=40) entao
